@@ -1,4 +1,5 @@
 1 - Késztsd el a szükséges gombokat, és teszteld le õket az ActionPerformed függvénnyel
+modosítás
 2 - Nézz utána a JMenuBar-nak, hasznos lesz még!
 3 - Készts ikonokat a különbözõ dolgokhoz a feladat lerása alapján, hozz létre egy csomagot a GUI csomagon belül, 
 melyben ezeket tárolod!
